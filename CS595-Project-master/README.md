@@ -1,1 +1,1 @@
-# CS595-Project
+# Project on social networking
